@@ -8,10 +8,6 @@
 - IDE: VS Code
 - MySQL Version: 5.5.4 (Using WAMP Server)
 
-# About Files
--  /SQL: Contains the Exported Database Schema+Data
-- /src/mainlibrary: Contains JAVA source codes
-- /MySQL Connector: Contains JDBC/MySQL JConnnector
 
 # Instructions
 1) Clone the Project or Download the zip
