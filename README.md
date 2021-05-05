@@ -16,7 +16,7 @@
 - Expand Project->Libraries->(Right Click)ADD JAR File->include file: mysql-connector-java-5.1.40-bin.jar
 
 3) Database setting can be changed
-- Expand Project->Source Packages->mainlibrary->DB.java
+- Expand Project->Source Packages->mainlibrary->conn.java
 - Change the Authentication Setting
 
 
